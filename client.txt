@@ -1,0 +1,9 @@
+import java.util.*;
+public class c{
+public void main (String []args){
+Scanner sc = new Scanner();
+int x= sc.nextln();
+System.out.println(x);
+}
+}
+//client code///
