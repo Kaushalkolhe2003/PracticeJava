@@ -1,0 +1,9 @@
+import java.util.*;
+package sxt;
+public class fg{
+public static void main{
+System.out.println("hello" world);
+}
+}
+//Java program started
+
