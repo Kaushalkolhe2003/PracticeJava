@@ -6,4 +6,4 @@ int x= sc.nextln();
 System.out.println(x);
 }
 }
-//client code///
+//client code//
